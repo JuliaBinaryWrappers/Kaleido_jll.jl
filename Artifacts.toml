@@ -1,42 +1,50 @@
 [[Kaleido]]
 arch = "aarch64"
-git-tree-sha1 = "899527323bafbcc9b5007e5a69c64c713294adeb"
-libc = "glibc"
-os = "linux"
-
-    [[Kaleido.download]]
-    sha256 = "3258738f854da152f6527064928f295b5e6d4b3105df402eb2517eb6d8d6a75f"
-    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.1.0+0/Kaleido.v0.1.0.aarch64-linux-gnu.tar.gz"
-[[Kaleido]]
-arch = "i686"
-git-tree-sha1 = "2c005b45d9aaa0e217791b3431d9e61e18806cd1"
-os = "windows"
-
-    [[Kaleido.download]]
-    sha256 = "4b81d3f958281f53bb2f462d2745766f615a6d094b2cc59a0b03fe38c73d1b8a"
-    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.1.0+0/Kaleido.v0.1.0.i686-w64-mingw32.tar.gz"
-[[Kaleido]]
-arch = "x86_64"
-git-tree-sha1 = "704a8a26764bb0e8e719d78ef2f95eaab6ca2dbd"
+git-tree-sha1 = "dd979a3fc47606530525152f643f40ae913ab026"
 os = "macos"
 
     [[Kaleido.download]]
-    sha256 = "d8ace8165f15fb0c4a3de6f907d6da3d0e6469d25a7f618d5580e564d20b764e"
-    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.1.0+0/Kaleido.v0.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "0fdbb1a8e1c53b31218a315a31d05cb16dbdfc9931a589d829bb77f51a250e20"
+    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.2.1+0/Kaleido.v0.2.1.aarch64-apple-darwin.tar.gz"
 [[Kaleido]]
-arch = "x86_64"
-git-tree-sha1 = "c4c64afe6e141b2663324e1848349cdc49296b41"
+arch = "aarch64"
+git-tree-sha1 = "d8a9f9d9ba69e1ee2845c64ab25cea331f56f3c6"
 libc = "glibc"
 os = "linux"
 
     [[Kaleido.download]]
-    sha256 = "0bcf6e3ed5658674d08d7ae38e039829cea54a54e09b6ebe2fc09ea841eb6862"
-    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.1.0+0/Kaleido.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "a564d7af721c6a4fee5b302cc34524487859d6fc1bfd1a7c723f72cfde2c9219"
+    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.2.1+0/Kaleido.v0.2.1.aarch64-linux-gnu.tar.gz"
 [[Kaleido]]
-arch = "x86_64"
-git-tree-sha1 = "aa3e0157eff69c2604027b85f1ff85a59bfae52f"
+arch = "i686"
+git-tree-sha1 = "531db621cd49a9be2be0cd068d786273c73e4fcc"
 os = "windows"
 
     [[Kaleido.download]]
-    sha256 = "52bce20e749b9955ee4dd3b22fa44dbdc9a6c4a4d447e243d8c016d4b730d496"
-    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.1.0+0/Kaleido.v0.1.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "08dbc113e706be0fd893e37cff74f8b193b31703528fa920332dbe6320aa74d4"
+    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.2.1+0/Kaleido.v0.2.1.i686-w64-mingw32.tar.gz"
+[[Kaleido]]
+arch = "x86_64"
+git-tree-sha1 = "6fd6b73cd862be1bd96f6fe34610497b25e462db"
+os = "macos"
+
+    [[Kaleido.download]]
+    sha256 = "ee8d8674da780d0c6c56eb984074545c33e50c210cd3de0f6d2020ccf0361f98"
+    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.2.1+0/Kaleido.v0.2.1.x86_64-apple-darwin.tar.gz"
+[[Kaleido]]
+arch = "x86_64"
+git-tree-sha1 = "bd3689c641088ffac77cbb10f229cae0537d286a"
+libc = "glibc"
+os = "linux"
+
+    [[Kaleido.download]]
+    sha256 = "5b8211ff7d041999bb6a94116d8d26b545056c69a4aa49cd900d0317ae4fd2ea"
+    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.2.1+0/Kaleido.v0.2.1.x86_64-linux-gnu.tar.gz"
+[[Kaleido]]
+arch = "x86_64"
+git-tree-sha1 = "7914a56da888d6a06d00c87f97e873c60e97acc7"
+os = "windows"
+
+    [[Kaleido.download]]
+    sha256 = "5251d44dd5495404a8ad7d9f6120b0ce65819111c518c767ee46f0c7b1424918"
+    url = "https://github.com/JuliaBinaryWrappers/Kaleido_jll.jl/releases/download/Kaleido-v0.2.1+0/Kaleido.v0.2.1.x86_64-w64-mingw32.tar.gz"
